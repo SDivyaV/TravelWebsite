@@ -1,0 +1,7 @@
+.progressBar{
+    height: 5px;
+    background-color: salmon;
+    overflow: hidden;
+    position: fixed;
+    transition: width 2s;
+}
